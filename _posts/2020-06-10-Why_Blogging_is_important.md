@@ -3,7 +3,7 @@ published: true
 ---
 ## My Hello World Blog!
 
-![Blog_Image]({{site.baseurl}}/_posts/images.jpg)
+![Blog_Image](https://prose.io/#vankasaisumanth/vankasaisumanth.github.io/tree/master/_posts/images.jpg)
 
 Blogs are increasing in the current digital world very heavily. Online content is increasing, everyone around uses search for even for small thing these days. Good and genuine content is also becoming tough to find. Due to increased blogging and higher competition, if you are not putting enough effort, it is tough to survive as a blog itself.
 
